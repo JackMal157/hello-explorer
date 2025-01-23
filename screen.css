@@ -16,19 +16,24 @@ h1 {
     position: active;
 }
 
-.earth-img {
+.earth-img img {
     width: 450px;
     height: 250px;
     max-width: 100%;
     max-height: 100%;
 }
 
-.moon-img {
+.moon-img img {
     width: 450px;
     height: 250px;
     max-width: 100%;
     max-height: 100%;
 }
 
+p {
+    line-height: 1.2em;
+    width: 800px;
+    margin: 8px;
+}
 
 
